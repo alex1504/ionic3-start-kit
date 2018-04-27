@@ -1,0 +1,15 @@
+.btn{
+  display: inline-block;
+  text-align: center;
+}
+.btn-1{
+  border-radius: 300px;
+  width: 350px;
+  height: 44px;
+  line-height: 44px;
+  background:linear-gradient(to right, #b4e0f8, #b5c9e5, #95a5cf);
+  color: #fff;
+}
+.btn-1.z-active{
+  background:linear-gradient(to right, #5dbbf4, #5c85c3, #183b94);
+}
